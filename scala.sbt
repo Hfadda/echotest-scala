@@ -7,5 +7,5 @@ scalacOptions ++= Seq(
   "-Wvalue-discard",
   "-language:strictEquality",
   "-Yexplicit-nulls",
-  "-Wsafe-init"
+  "-Ysafe-init"
 )
