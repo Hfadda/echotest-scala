@@ -27,3 +27,6 @@ This allows you to explore the functionality of the classes in this
 project in a Scala REPL while letting sbt set the classpath for you.
 
     sbt console
+
+# AI Use
+	Did not use AI
